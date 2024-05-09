@@ -1,0 +1,21 @@
+name: Update Wakatime Statistics
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Executa todos os dias à meia-noite
+  workflow_dispatch:  # Permite execução manual do workflow
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2  # Checa o código do seu repositório
+      - name: Fetch Wakatime Data
+        run: python fetch_wakatime_data.py
+      - name: Commit and push if changed
+        run: |
+          git config --global user.email "you@example.com"
+          git config --global user.name "Your Name"
+          git add .
+          git commit -m "Updated README with Wakatime stats" -a || exit 0
+          git push
