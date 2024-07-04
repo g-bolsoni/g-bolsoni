@@ -1,3 +1,3 @@
 ## Coding Stats
 
-- Coding Time Last 7 Days: 12 hrs 31 mins
+- Coding Time Last 7 Days: 8 hrs 46 mins
