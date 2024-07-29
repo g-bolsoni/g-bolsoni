@@ -21,7 +21,7 @@ jobs:
 
       - name: Fetch Wakatime Data and Update README
         env:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          WAKATIME_API_KEY: ${{ secrets.API_KEY }}
         run: python fetch_wakatime_data.py
 
       - name: Commit and push if changed
