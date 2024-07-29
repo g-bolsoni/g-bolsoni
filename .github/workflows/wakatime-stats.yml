@@ -10,14 +10,24 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2  # Checa o código do seu repositório
-      - name: Fetch Wakatime Data
-        run: |
-          export WAKATIME_API_KEY=${{ secrets.WAKATIME_API_KEY }}
-          python fetch_wakatime_data.py
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install requests matplotlib
+
+      - name: Fetch Wakatime Data and Update README
+        env:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+        run: python fetch_wakatime_data.py
+
       - name: Commit and push if changed
         run: |
           git config --global user.email "giovanebolsoni2@gmail.com"
           git config --global user.name "g-bolsoni"
-          git add .
-          git commit -m "Updated README with Wakatime stats" -a || exit 0
+          git add README.md coding_graph.png
+          git commit -m "Updated README with Wakatime stats and graph" -a || exit 0
           git push
