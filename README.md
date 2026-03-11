@@ -65,7 +65,6 @@ Meu nome é Giovane Bolsoni, um entusiasta da tecnologia e do desenvolvimento we
 ### ⏱️ Coding Stats
 
 <!-- WAKATIME:START -->
-
 #### ⏰ Tempo de Coding
 
 ```text
