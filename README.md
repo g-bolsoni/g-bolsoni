@@ -64,11 +64,27 @@ Meu nome é Giovane Bolsoni, um entusiasta da tecnologia e do desenvolvimento we
 
 ### ⏱️ Coding Stats
 
-<p align="center">
-  <img src="https://wakatime.com/badge/user/g-bolsoni.svg?style=for-the-badge" alt="WakaTime"/>
-</p>
+<!-- WAKATIME:START -->
 
-- 🕐 Coding Time Last 7 Days: **26 hrs 8 mins**
+#### ⏰ Tempo de Coding
+
+```text
+Total (últimos 7 dias)    : 25 hrs 48 mins
+Média diária              : 5 hrs 9 mins
+Total desde o início      : 4,631 hrs 43 mins
+```
+
+#### 💻 Linguagens Mais Usadas (últimos 7 dias)
+
+```text
+Vue.js          █████████████████░░░  85.8% (22 hrs 31 mins)
+Markdown        █░░░░░░░░░░░░░░░░░░░   7.7% (2 hrs)
+JavaScript      ░░░░░░░░░░░░░░░░░░░░   3.9% (1 hr)
+Other           ░░░░░░░░░░░░░░░░░░░░   1.7% (26 mins)
+SCSS            ░░░░░░░░░░░░░░░░░░░░   0.9% (14 mins)
+```
+
+<!-- WAKATIME:END -->
 
 ---
 
