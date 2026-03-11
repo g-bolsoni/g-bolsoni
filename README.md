@@ -18,7 +18,7 @@
 
 ### 👨‍💻 Sobre mim
 
-Meu nome é Giovane Bolsoni, um entusiasta da tecnologia e do desenvolvimento web. Estou interessado em desenvolver soluções inovadoras e eficazes que tornam a experiência do usuário mais intuitiva e eficaz. Estou sempre em busca de conhecimento e desafios que me permitam evoluir como desenvolvedor e contribuir de maneira relevante.
+Sou o Giovane, dev Full Stack. Atualmente trabalho com Vue.js e AdonisJS, mas já passei por bastante coisa com PHP e Express também. Gosto de resolver problemas reais e deixar o código limpo e funcional. Nas horas vagas, estou sempre testando alguma tecnologia nova ou mexendo em algum side project.
 
 ---
 
@@ -26,24 +26,26 @@ Meu nome é Giovane Bolsoni, um entusiasta da tecnologia e do desenvolvimento we
 
 <p align="center">
   <strong>Front-end</strong><br/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>
 </p>
 
 <p align="center">
   <strong>Back-end</strong><br/>
+  <img src="https://img.shields.io/badge/AdonisJS-5A45FF?style=for-the-badge&logo=adonisjs&logoColor=white" alt="AdonisJS"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/AdonisJS-5A45FF?style=for-the-badge&logo=adonisjs&logoColor=white" alt="AdonisJS"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
 
 <p align="center">
   <strong>Ferramentas</strong><br/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
 </p>
 
@@ -88,7 +90,7 @@ SCSS            ░░░░░░░░░░░░░░░░░░░░   0
 
 ---
 
-### � Histórico de Atividade
+### 📈 Histórico de Atividade
 
 <p align="center">
   <img src="wakatime_activity.svg" alt="WakaTime Activity Graph" />
@@ -97,5 +99,5 @@ SCSS            ░░░░░░░░░░░░░░░░░░░░   0
 ---
 
 <p align="center">
-  <i>Vamos conectar e construir algo incrível juntos!</i>
+  <a href="mailto:giovane.essado@gmail.com"><img src="https://img.shields.io/badge/Bora_trocar_uma_ideia%3F-6C63FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact"/></a>
 </p>
