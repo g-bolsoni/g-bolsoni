@@ -85,6 +85,14 @@ SCSS            ░░░░░░░░░░░░░░░░░░░░   0
 
 <!-- WAKATIME:END -->
 
+#### 📈 Atividade de Coding (WakaTime)
+
+<!-- WAKATIME_ACTIVITY:START -->
+<p align="center">
+  <img src="wakatime_activity.svg" alt="WakaTime Activity Graph" />
+</p>
+<!-- WAKATIME_ACTIVITY:END -->
+
 ---
 
 ### 🐍 Contribution Graph
