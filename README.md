@@ -67,13 +67,12 @@ Sou o Giovane, dev Full Stack. Atualmente trabalho com Vue.js e AdonisJS, mas j�
 ### ⏱️ Coding Stats
 
 <!-- WAKATIME:START -->
-
 #### ⏰ Tempo de Coding
 
 ```text
 Total (últimos 7 dias)    : 25 hrs 48 mins
 Média diária              : 5 hrs 9 mins
-Total desde o início      : 4,631 hrs 43 mins
+Total desde o início      : 4,624 hrs 8 mins
 ```
 
 #### 💻 Linguagens Mais Usadas (últimos 7 dias)
