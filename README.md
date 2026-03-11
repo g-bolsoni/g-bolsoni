@@ -51,39 +51,43 @@ Sou o Giovane, dev Full Stack. Atualmente trabalho com Vue.js e AdonisJS, mas j�
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=g-bolsoni&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-bolsoni&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=g-bolsoni&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
----
-
 ### ⏱️ Coding Stats
 
 <!-- WAKATIME:START -->
-#### ⏰ Tempo de Coding
+<p align="center">
+  <img src="https://img.shields.io/badge/Semana-27%20hrs%2031%20mins-6C63FF?style=for-the-badge&logo=wakatime&logoColor=white" alt="Weekly coding time"/>
+  <img src="https://img.shields.io/badge/Média_Diária-5%20hrs%2030%20mins-36BCF7?style=for-the-badge&logo=clockify&logoColor=white" alt="Daily average"/>
+  <img src="https://img.shields.io/badge/Total-4624%20hrs%208%20mins-00C853?style=for-the-badge&logo=target&logoColor=white" alt="All time"/>
+</p>
 
-```text
-Total (últimos 7 dias)    : 25 hrs 48 mins
-Média diária              : 5 hrs 9 mins
-Total desde o início      : 4,624 hrs 8 mins
-```
-
-#### 💻 Linguagens Mais Usadas (últimos 7 dias)
-
-```text
-Vue.js          █████████████████░░░  85.8% (22 hrs 31 mins)
-Markdown        █░░░░░░░░░░░░░░░░░░░   7.7% (2 hrs)
-JavaScript      ░░░░░░░░░░░░░░░░░░░░   3.9% (1 hr)
-Other           ░░░░░░░░░░░░░░░░░░░░   1.7% (26 mins)
-SCSS            ░░░░░░░░░░░░░░░░░░░░   0.9% (14 mins)
-```
+<table align="center">
+<tr><th>Linguagem</th><th>Tempo</th><th></th></tr>
+<tr>
+<td><strong>Vue.js</strong></td>
+<td>23 hrs 53 mins</td>
+<td><img src="https://img.shields.io/badge/85.6%25-4FC08D?style=flat-square" alt="Vue.js"/></td>
+</tr>
+<tr>
+<td><strong>Markdown</strong></td>
+<td>1 hr 54 mins</td>
+<td><img src="https://img.shields.io/badge/6.8%25-083FA1?style=flat-square" alt="Markdown"/></td>
+</tr>
+<tr>
+<td><strong>JavaScript</strong></td>
+<td>53 mins</td>
+<td><img src="https://img.shields.io/badge/3.2%25-F7DF1E?style=flat-square" alt="JavaScript"/></td>
+</tr>
+<tr>
+<td><strong>SCSS</strong></td>
+<td>48 mins</td>
+<td><img src="https://img.shields.io/badge/2.9%25-CC6699?style=flat-square" alt="SCSS"/></td>
+</tr>
+<tr>
+<td><strong>Other</strong></td>
+<td>23 mins</td>
+<td><img src="https://img.shields.io/badge/1.4%25-808080?style=flat-square" alt="Other"/></td>
+</tr>
+</table>
 
 <!-- WAKATIME:END -->
 

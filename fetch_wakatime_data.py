@@ -269,43 +269,62 @@ def generate_wakatime_section(stats: dict, all_time: dict = None) -> str:
 
     lines = []
 
-    # Tempo de coding
+    # Tempo de coding com badges
     total_time = stats.get('human_readable_total', 'N/A')
     daily_avg = stats.get('human_readable_daily_average', 'N/A')
+    
+    # Formatar para URL (substituir espaços por %20)
+    total_encoded = total_time.replace(' ', '%20')
+    daily_encoded = daily_avg.replace(' ', '%20')
 
-    lines.append("#### ⏰ Tempo de Coding")
-    lines.append("")
-    lines.append("```text")
-    lines.append(f"Total (últimos 7 dias)    : {total_time}")
-    lines.append(f"Média diária              : {daily_avg}")
-
+    lines.append('<p align="center">')
+    lines.append(f'  <img src="https://img.shields.io/badge/Semana-{total_encoded}-6C63FF?style=for-the-badge&logo=wakatime&logoColor=white" alt="Weekly coding time"/>')
+    lines.append(f'  <img src="https://img.shields.io/badge/Média_Diária-{daily_encoded}-36BCF7?style=for-the-badge&logo=clockify&logoColor=white" alt="Daily average"/>')
+    
     if all_time:
         all_time_text = all_time.get('text', 'N/A')
-        lines.append(f"Total desde o início      : {all_time_text}")
-
-    lines.append("```")
+        all_time_encoded = all_time_text.replace(' ', '%20').replace(',', '')
+        lines.append(f'  <img src="https://img.shields.io/badge/Total-{all_time_encoded}-00C853?style=for-the-badge&logo=target&logoColor=white" alt="All time"/>')
+    
+    lines.append('</p>')
     lines.append("")
 
-    # Linguagens
+    # Linguagens em tabela
     languages = stats.get('languages', [])
     if languages:
-        lines.append("#### 💻 Linguagens Mais Usadas (últimos 7 dias)")
-        lines.append("")
-        lines.append("```text")
+        lines.append('<table align="center">')
+        lines.append('<tr><th>Linguagem</th><th>Tempo</th><th></th></tr>')
+        
+        # Cores para cada linguagem
+        lang_colors = {
+            'Vue.js': '4FC08D',
+            'JavaScript': 'F7DF1E',
+            'TypeScript': '3178C6',
+            'PHP': '777BB4',
+            'Python': '3776AB',
+            'HTML': 'E34F26',
+            'CSS': '1572B6',
+            'SCSS': 'CC6699',
+            'JSON': '292929',
+            'Markdown': '083FA1',
+            'Other': '808080'
+        }
 
         for lang in languages[:5]:
             name = lang.get('name', 'Unknown')
             percent = lang.get('percent', 0)
             time_text = lang.get('text', '0 mins')
+            
+            color = lang_colors.get(name, '6C63FF')
+            bar_width = int(percent * 2)  # Max 200px
+            
+            lines.append(f'<tr>')
+            lines.append(f'<td><strong>{name}</strong></td>')
+            lines.append(f'<td>{time_text}</td>')
+            lines.append(f'<td><img src="https://img.shields.io/badge/{percent:.1f}%25-{color}?style=flat-square" alt="{name}"/></td>')
+            lines.append(f'</tr>')
 
-            bar_length = 20
-            filled = int(bar_length * percent / 100)
-            bar = '█' * filled + '░' * (bar_length - filled)
-
-            name_padded = name.ljust(15)
-            lines.append(f"{name_padded} {bar} {percent:5.1f}% ({time_text})")
-
-        lines.append("```")
+        lines.append('</table>')
         lines.append("")
 
     return '\n'.join(lines)
