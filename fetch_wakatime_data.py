@@ -400,15 +400,6 @@ def main():
     hist_stats = history.get_stats()
     logger.info(f"Histórico atualizado: {hist_stats['total_days']} dias, {hist_stats['total_hours']}h total")
 
-    # Gerar snake animation
-    logger.info("Gerando animação da snake...")
-    import subprocess
-    result = subprocess.run(['python3', 'generate_snake.py'], capture_output=True, text=True)
-    if result.returncode != 0:
-        logger.warning(f"Erro ao gerar snake: {result.stderr}")
-    else:
-        logger.info("Snake animation gerada com sucesso!")
-
     # Gerar seção do WakaTime
     wakatime_section = generate_wakatime_section(stats, all_time)
 

@@ -65,6 +65,7 @@ Meu nome é Giovane Bolsoni, um entusiasta da tecnologia e do desenvolvimento we
 ### ⏱️ Coding Stats
 
 <!-- WAKATIME:START -->
+
 #### ⏰ Tempo de Coding
 
 ```text
@@ -87,10 +88,10 @@ SCSS            ░░░░░░░░░░░░░░░░░░░░   0
 
 ---
 
-### 🐍 Coding Activity
+### � Histórico de Atividade
 
 <p align="center">
-  <img src="wakatime_snake.svg" alt="WakaTime Snake Animation" />
+  <img src="wakatime_activity.svg" alt="WakaTime Activity Graph" />
 </p>
 
 ---
