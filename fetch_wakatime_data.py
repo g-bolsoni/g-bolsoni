@@ -400,13 +400,14 @@ def main():
     hist_stats = history.get_stats()
     logger.info(f"Histórico atualizado: {hist_stats['total_days']} dias, {hist_stats['total_hours']}h total")
 
-    # Gerar SVG do gráfico de atividade
-    logger.info("Gerando gráfico de atividade SVG...")
-    svg_content = generate_activity_svg(daily_data, weeks=52)
-
-    with open(svg_path, 'w', encoding='utf-8') as f:
-        f.write(svg_content)
-    logger.info(f"Gráfico SVG salvo em {svg_path}")
+    # Gerar snake animation
+    logger.info("Gerando animação da snake...")
+    import subprocess
+    result = subprocess.run(['python3', 'generate_snake.py'], capture_output=True, text=True)
+    if result.returncode != 0:
+        logger.warning(f"Erro ao gerar snake: {result.stderr}")
+    else:
+        logger.info("Snake animation gerada com sucesso!")
 
     # Gerar seção do WakaTime
     wakatime_section = generate_wakatime_section(stats, all_time)
@@ -425,15 +426,6 @@ def main():
         wakatime_section,
         START_MARKER,
         END_MARKER
-    )
-
-    # Atualizar referência ao gráfico
-    graph_section = f'<p align="center">\n  <img src="{svg_path}" alt="WakaTime Activity Graph" />\n</p>'
-    readme_content = update_readme(
-        readme_content,
-        graph_section,
-        GRAPH_START,
-        GRAPH_END
     )
 
     # Salvar README

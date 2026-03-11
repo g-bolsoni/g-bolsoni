@@ -65,6 +65,7 @@ Meu nome é Giovane Bolsoni, um entusiasta da tecnologia e do desenvolvimento we
 ### ⏱️ Coding Stats
 
 <!-- WAKATIME:START -->
+
 #### ⏰ Tempo de Coding
 
 ```text
@@ -85,23 +86,13 @@ SCSS            ░░░░░░░░░░░░░░░░░░░░   0
 
 <!-- WAKATIME:END -->
 
-#### 📈 Atividade de Coding (WakaTime)
-
-<!-- WAKATIME_ACTIVITY:START -->
-<p align="center">
-  <img src="wakatime_activity.svg" alt="WakaTime Activity Graph" />
-</p>
-<!-- WAKATIME_ACTIVITY:END -->
-
 ---
 
-### 🐍 Contribution Graph
+### 🐍 Coding Activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/g-bolsoni/g-bolsoni/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/g-bolsoni/g-bolsoni/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/g-bolsoni/g-bolsoni/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+  <img src="wakatime_snake.svg" alt="WakaTime Snake Animation" />
+</p>
 
 ---
 
