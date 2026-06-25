@@ -55,37 +55,37 @@ Sou o Giovane, dev Full Stack. Atualmente trabalho com Vue.js e AdonisJS, mas j�
 
 <!-- WAKATIME:START -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Semana-30%20hrs%2020%20mins-6C63FF?style=for-the-badge&logo=wakatime&logoColor=white" alt="Weekly coding time"/>
-  <img src="https://img.shields.io/badge/Média_Diária-6%20hrs%204%20mins-36BCF7?style=for-the-badge&logo=clockify&logoColor=white" alt="Daily average"/>
-  <img src="https://img.shields.io/badge/Total-4970%20hrs%2038%20mins-00C853?style=for-the-badge&logo=target&logoColor=white" alt="All time"/>
+  <img src="https://img.shields.io/badge/Semana-34%20hrs%2037%20mins-6C63FF?style=for-the-badge&logo=wakatime&logoColor=white" alt="Weekly coding time"/>
+  <img src="https://img.shields.io/badge/Média_Diária-6%20hrs%2055%20mins-36BCF7?style=for-the-badge&logo=clockify&logoColor=white" alt="Daily average"/>
+  <img src="https://img.shields.io/badge/Total-4977%20hrs%206%20mins-00C853?style=for-the-badge&logo=target&logoColor=white" alt="All time"/>
 </p>
 
 <table align="center">
 <tr><th>Linguagem</th><th>Tempo</th><th></th></tr>
 <tr>
 <td><strong>Vue</strong></td>
-<td>20 hrs 57 mins</td>
-<td><img src="https://img.shields.io/badge/68.8%25-6C63FF?style=flat-square" alt="Vue"/></td>
-</tr>
-<tr>
-<td><strong>SQL</strong></td>
-<td>3 hrs 32 mins</td>
-<td><img src="https://img.shields.io/badge/11.6%25-6C63FF?style=flat-square" alt="SQL"/></td>
-</tr>
-<tr>
-<td><strong>TypeScript</strong></td>
-<td>3 hrs 28 mins</td>
-<td><img src="https://img.shields.io/badge/11.4%25-3178C6?style=flat-square" alt="TypeScript"/></td>
+<td>24 hrs 8 mins</td>
+<td><img src="https://img.shields.io/badge/69.2%25-6C63FF?style=flat-square" alt="Vue"/></td>
 </tr>
 <tr>
 <td><strong>JavaScript</strong></td>
-<td>1 hr 15 mins</td>
-<td><img src="https://img.shields.io/badge/4.1%25-F7DF1E?style=flat-square" alt="JavaScript"/></td>
+<td>4 hrs 9 mins</td>
+<td><img src="https://img.shields.io/badge/11.9%25-F7DF1E?style=flat-square" alt="JavaScript"/></td>
+</tr>
+<tr>
+<td><strong>SQL</strong></td>
+<td>3 hrs 15 mins</td>
+<td><img src="https://img.shields.io/badge/9.3%25-6C63FF?style=flat-square" alt="SQL"/></td>
+</tr>
+<tr>
+<td><strong>TypeScript</strong></td>
+<td>2 hrs</td>
+<td><img src="https://img.shields.io/badge/5.7%25-3178C6?style=flat-square" alt="TypeScript"/></td>
 </tr>
 <tr>
 <td><strong>Markdown</strong></td>
-<td>48 mins</td>
-<td><img src="https://img.shields.io/badge/2.6%25-083FA1?style=flat-square" alt="Markdown"/></td>
+<td>44 mins</td>
+<td><img src="https://img.shields.io/badge/2.1%25-083FA1?style=flat-square" alt="Markdown"/></td>
 </tr>
 </table>
 
