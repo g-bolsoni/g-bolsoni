@@ -55,8 +55,8 @@ Sou o Giovane, dev Full Stack. Atualmente trabalho com Vue.js e AdonisJS, mas j�
 
 <!-- WAKATIME:START -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Semana-6%20hrs%2055%20mins-6C63FF?style=for-the-badge&logo=wakatime&logoColor=white" alt="Weekly coding time"/>
-  <img src="https://img.shields.io/badge/Média_Diária-3%20hrs%2027%20mins-36BCF7?style=for-the-badge&logo=clockify&logoColor=white" alt="Daily average"/>
+  <img src="https://img.shields.io/badge/Semana-2%20hrs%2025%20mins-6C63FF?style=for-the-badge&logo=wakatime&logoColor=white" alt="Weekly coding time"/>
+  <img src="https://img.shields.io/badge/Média_Diária-2%20hrs%2025%20mins-36BCF7?style=for-the-badge&logo=clockify&logoColor=white" alt="Daily average"/>
   <img src="https://img.shields.io/badge/Total-4992%20hrs%2025%20mins-00C853?style=for-the-badge&logo=target&logoColor=white" alt="All time"/>
 </p>
 
@@ -64,23 +64,18 @@ Sou o Giovane, dev Full Stack. Atualmente trabalho com Vue.js e AdonisJS, mas j�
 <tr><th>Linguagem</th><th>Tempo</th><th></th></tr>
 <tr>
 <td><strong>SQL</strong></td>
-<td>4 hrs 20 mins</td>
-<td><img src="https://img.shields.io/badge/62.6%25-6C63FF?style=flat-square" alt="SQL"/></td>
+<td>1 hr 9 mins</td>
+<td><img src="https://img.shields.io/badge/47.8%25-6C63FF?style=flat-square" alt="SQL"/></td>
 </tr>
 <tr>
 <td><strong>TypeScript</strong></td>
-<td>2 hrs 8 mins</td>
-<td><img src="https://img.shields.io/badge/30.9%25-3178C6?style=flat-square" alt="TypeScript"/></td>
+<td>49 mins</td>
+<td><img src="https://img.shields.io/badge/33.9%25-3178C6?style=flat-square" alt="TypeScript"/></td>
 </tr>
 <tr>
 <td><strong>Markdown</strong></td>
 <td>26 mins</td>
-<td><img src="https://img.shields.io/badge/6.4%25-083FA1?style=flat-square" alt="Markdown"/></td>
-</tr>
-<tr>
-<td><strong>Other</strong></td>
-<td>0 secs</td>
-<td><img src="https://img.shields.io/badge/0.1%25-808080?style=flat-square" alt="Other"/></td>
+<td><img src="https://img.shields.io/badge/18.3%25-083FA1?style=flat-square" alt="Markdown"/></td>
 </tr>
 <tr>
 <td><strong>YAML</strong></td>
