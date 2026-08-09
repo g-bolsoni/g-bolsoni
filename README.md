@@ -55,8 +55,8 @@ Sou o Giovane, dev Full Stack. Atualmente trabalho com Vue.js e AdonisJS, mas j�
 
 <!-- WAKATIME:START -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Semana-2%20mins-6C63FF?style=for-the-badge&logo=wakatime&logoColor=white" alt="Weekly coding time"/>
-  <img src="https://img.shields.io/badge/Média_Diária-2%20mins-36BCF7?style=for-the-badge&logo=clockify&logoColor=white" alt="Daily average"/>
+  <img src="https://img.shields.io/badge/Semana-6%20mins-6C63FF?style=for-the-badge&logo=wakatime&logoColor=white" alt="Weekly coding time"/>
+  <img src="https://img.shields.io/badge/Média_Diária-3%20mins-36BCF7?style=for-the-badge&logo=clockify&logoColor=white" alt="Daily average"/>
   <img src="https://img.shields.io/badge/Total-5058%20hrs%2022%20mins-00C853?style=for-the-badge&logo=target&logoColor=white" alt="All time"/>
 </p>
 
@@ -65,12 +65,27 @@ Sou o Giovane, dev Full Stack. Atualmente trabalho com Vue.js e AdonisJS, mas j�
 <tr>
 <td><strong>Other</strong></td>
 <td>57 mins</td>
-<td><img src="https://img.shields.io/badge/96.7%25-808080?style=flat-square" alt="Other"/></td>
+<td><img src="https://img.shields.io/badge/89.7%25-808080?style=flat-square" alt="Other"/></td>
+</tr>
+<tr>
+<td><strong>Vue</strong></td>
+<td>4 mins</td>
+<td><img src="https://img.shields.io/badge/6.8%25-6C63FF?style=flat-square" alt="Vue"/></td>
 </tr>
 <tr>
 <td><strong>Markdown</strong></td>
 <td>2 mins</td>
-<td><img src="https://img.shields.io/badge/3.4%25-083FA1?style=flat-square" alt="Markdown"/></td>
+<td><img src="https://img.shields.io/badge/3.1%25-083FA1?style=flat-square" alt="Markdown"/></td>
+</tr>
+<tr>
+<td><strong>SCSS</strong></td>
+<td>0 secs</td>
+<td><img src="https://img.shields.io/badge/0.2%25-CC6699?style=flat-square" alt="SCSS"/></td>
+</tr>
+<tr>
+<td><strong>JavaScript</strong></td>
+<td>0 secs</td>
+<td><img src="https://img.shields.io/badge/0.2%25-F7DF1E?style=flat-square" alt="JavaScript"/></td>
 </tr>
 </table>
 
