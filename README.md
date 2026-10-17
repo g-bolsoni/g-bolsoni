@@ -57,8 +57,17 @@ Sou o Giovane, dev Full Stack. Atualmente trabalho com Vue.js e AdonisJS, mas j�
 <p align="center">
   <img src="https://img.shields.io/badge/Semana-0%20secs-6C63FF?style=for-the-badge&logo=wakatime&logoColor=white" alt="Weekly coding time"/>
   <img src="https://img.shields.io/badge/Média_Diária-0%20secs-36BCF7?style=for-the-badge&logo=clockify&logoColor=white" alt="Daily average"/>
-  <img src="https://img.shields.io/badge/Total-5067%20hrs%2029%20mins-00C853?style=for-the-badge&logo=target&logoColor=white" alt="All time"/>
+  <img src="https://img.shields.io/badge/Total-5067%20hrs%2030%20mins-00C853?style=for-the-badge&logo=target&logoColor=white" alt="All time"/>
 </p>
+
+<table align="center">
+<tr><th>Linguagem</th><th>Tempo</th><th></th></tr>
+<tr>
+<td><strong>JavaScript</strong></td>
+<td>0 secs</td>
+<td><img src="https://img.shields.io/badge/100.0%25-F7DF1E?style=flat-square" alt="JavaScript"/></td>
+</tr>
+</table>
 
 <!-- WAKATIME:END -->
 
