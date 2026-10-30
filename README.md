@@ -60,15 +60,6 @@ Sou o Giovane, dev Full Stack. Atualmente trabalho com Vue.js e AdonisJS, mas j√
   <img src="https://img.shields.io/badge/Total-5068%20hrs%2024%20mins-00C853?style=for-the-badge&logo=target&logoColor=white" alt="All time"/>
 </p>
 
-<table align="center">
-<tr><th>Linguagem</th><th>Tempo</th><th></th></tr>
-<tr>
-<td><strong>SQL</strong></td>
-<td>0 secs</td>
-<td><img src="https://img.shields.io/badge/100.0%25-6C63FF?style=flat-square" alt="SQL"/></td>
-</tr>
-</table>
-
 <!-- WAKATIME:END -->
 
 ---
